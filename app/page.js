@@ -259,7 +259,7 @@ const page = () => {
         <div className="slide-container  gap-5">
           
         <h1 className="slide-text text-9xl pl-17  font-[500] ">Start Your Digital Transformation in GCC</h1>
-      <div></div>
+      
         <h1 className="slide-text text-9xl pl-17  font-[500] ">Start Your Digital Transformation in GCC</h1>
         </div>
         <p className="text-[120px] font-[500] pl-17 text-[#196264]">78%</p>
